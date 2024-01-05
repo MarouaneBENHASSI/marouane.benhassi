@@ -7,7 +7,7 @@ header {
   <!-- background-image: url(cern.jpg); -->
   <!-- height: 350px; -->
   <!-- background-position: center center; -->
-  margin-top: -10px;					   
+  margin-top: 0px;					   
 }
 
 ul {
@@ -104,7 +104,7 @@ footer {
   text-align: center;
   width: 100%;
   position: relative;
-  top: 50px;
+  top: 0px;
 }
 
 .question {
